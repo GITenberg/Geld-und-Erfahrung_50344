@@ -1,0 +1,26 @@
+_repo: Geld-und-Erfahrung_50344
+contributor:
+  annotator:
+    agent_name: Müller-Rastatt, Carl
+    gutenberg_agent_id: '45826'
+    url: http://www.gutenberg.org/2009/agents/45826
+  illustrator:
+    agent_name: Herrmann, Theodor
+    gutenberg_agent_id: '45827'
+    url: http://www.gutenberg.org/2009/agents/45827
+creator:
+  author:
+    agent_name: Eyth, Max
+    gutenberg_agent_id: '44791'
+    url: http://www.gutenberg.org/2009/agents/44791
+description: ''
+gutenberg_issued: '2015-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50344'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Geld und Erfahrung
+url: http://www.gutenberg.org/ebooks/50344
