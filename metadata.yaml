@@ -1,4 +1,5 @@
 _repo: Geld-und-Erfahrung_50344
+_version: 0.1.0
 contributor:
   annotator:
     agent_name: Müller-Rastatt, Carl
@@ -8,12 +9,17 @@ contributor:
     agent_name: Herrmann, Theodor
     gutenberg_agent_id: '45827'
     url: http://www.gutenberg.org/2009/agents/45827
+covers:
+- cover_type: archival
+  image_path: 50344-h/images/cover.jpg
 creator:
   author:
     agent_name: Eyth, Max
     gutenberg_agent_id: '44791'
     url: http://www.gutenberg.org/2009/agents/44791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50344#Geld-und-Erfahrung
 gutenberg_issued: '2015-10-30'
 gutenberg_type: Text
 identifiers:
